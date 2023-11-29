@@ -1,0 +1,9 @@
+body{background-color: #B3F56A;}
+h1{font-family: Helvetica; font-size: 40px; color: #FAE024; text-align: center;}
+p{font-family: Garamond; font-size: 12px; color: #FA8224; display: block; margin-left: auto; margin-right: auto; width:60%; background-color: white; padding: 10px;}
+img{border-width: 3px; border-style: double; border-color: #276128; display: block; margin-left: auto; margin-right: auto; }
+a{text-decoration: none;}
+a:hover{color: pink;}
+ul{list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333;}
+li{float: left;}
+li a {display: block; font-family: Helvetica; color:#FA8224; font-size: 12px;  text-align: center; padding: 14px 16px; text-decoration: none;}
